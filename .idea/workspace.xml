@@ -1,23 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66cc9dc7-0f66-4e16-b384-f7a42435caf4" name="Changes" comment="first commit" />
+    <list default="true" id="a5aff9b2-5dde-4d67-8523-f165f38f3463" name="Changes" comment="primeiro commit, com a criação da classe SmartTv" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2NiaJaryFnI9x8XhfsVXWqElEyA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NieOobvBdVveoNppF1NrsHM2sF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
@@ -25,20 +38,27 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="66cc9dc7-0f66-4e16-b384-f7a42435caf4" name="Changes" comment="" />
-      <created>1680149296994</created>
+      <changelist id="a5aff9b2-5dde-4d67-8523-f165f38f3463" name="Changes" comment="" />
+      <created>1680151304519</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680149296994</updated>
+      <updated>1680151304519</updated>
     </task>
-    <task id="LOCAL-00001" summary="first commit">
-      <created>1680149463873</created>
+    <task id="LOCAL-00001" summary="primeiro commit, com a criação da classe SmartTv">
+      <created>1680152667083</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1680149463873</updated>
+      <updated>1680152667083</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="primeiro commit, com a criação da classe SmartTv">
+      <created>1680153223256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680153223256</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -53,7 +73,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="primeiro commit, com a criação da classe SmartTv" />
+    <option name="LAST_COMMIT_MESSAGE" value="primeiro commit, com a criação da classe SmartTv" />
   </component>
 </project>
