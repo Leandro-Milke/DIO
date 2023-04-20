@@ -14,6 +14,6 @@ public class Usuario {
 
         System.out.println("Novo Status -> TV Ligada? " + smartTv.ligada);
         System.out.println("Canal Atual : " + smartTv.canal);
-        System.out.println("Novo Status -> Volume Atual : " + smartTv.volume);
+        System.out.println("Novo Status -> Volume Atual: " + smartTv.volume);
     }
 }
